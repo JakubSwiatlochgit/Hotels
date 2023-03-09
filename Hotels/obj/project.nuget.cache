@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZggitTRaitH639iBbzw2gEgsrtK3nIhoOQLJvUMtexvbwErqAQ6t2R0F6oIbkjogWJ+3e/qfA9YNdMnEeXXX5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mrmis\\source\\repos\\ProgramowanieIV\\Hotels\\Hotels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mrmis\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

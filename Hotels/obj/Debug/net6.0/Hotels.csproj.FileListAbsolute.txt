@@ -1,0 +1,17 @@
+C:\Users\mrmis\source\repos\ProgramowanieIV\Hotels\bin\Debug\net6.0\Hotels.exe
+C:\Users\mrmis\source\repos\ProgramowanieIV\Hotels\bin\Debug\net6.0\Hotels.deps.json
+C:\Users\mrmis\source\repos\ProgramowanieIV\Hotels\bin\Debug\net6.0\Hotels.runtimeconfig.json
+C:\Users\mrmis\source\repos\ProgramowanieIV\Hotels\bin\Debug\net6.0\Hotels.dll
+C:\Users\mrmis\source\repos\ProgramowanieIV\Hotels\bin\Debug\net6.0\Hotels.pdb
+C:\Users\mrmis\source\repos\ProgramowanieIV\Hotels\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\mrmis\source\repos\ProgramowanieIV\Hotels\obj\Debug\net6.0\Hotels.csproj.AssemblyReference.cache
+C:\Users\mrmis\source\repos\ProgramowanieIV\Hotels\obj\Debug\net6.0\Hotels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrmis\source\repos\ProgramowanieIV\Hotels\obj\Debug\net6.0\Hotels.AssemblyInfoInputs.cache
+C:\Users\mrmis\source\repos\ProgramowanieIV\Hotels\obj\Debug\net6.0\Hotels.AssemblyInfo.cs
+C:\Users\mrmis\source\repos\ProgramowanieIV\Hotels\obj\Debug\net6.0\Hotels.csproj.CoreCompileInputs.cache
+C:\Users\mrmis\source\repos\ProgramowanieIV\Hotels\obj\Debug\net6.0\Hotels.csproj.CopyComplete
+C:\Users\mrmis\source\repos\ProgramowanieIV\Hotels\obj\Debug\net6.0\Hotels.dll
+C:\Users\mrmis\source\repos\ProgramowanieIV\Hotels\obj\Debug\net6.0\refint\Hotels.dll
+C:\Users\mrmis\source\repos\ProgramowanieIV\Hotels\obj\Debug\net6.0\Hotels.pdb
+C:\Users\mrmis\source\repos\ProgramowanieIV\Hotels\obj\Debug\net6.0\Hotels.genruntimeconfig.cache
+C:\Users\mrmis\source\repos\ProgramowanieIV\Hotels\obj\Debug\net6.0\ref\Hotels.dll
